@@ -1,0 +1,19 @@
+{
+    "name": "rafi/contact",
+    "description": "Send email to admin and save to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "raficse15032",
+            "email": "abumohammadrafi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rafi\\Contact\\": "src/"
+        }
+    }
+}
