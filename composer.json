@@ -15,5 +15,12 @@
         "psr-4": {
             "Rafi\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rafi\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
